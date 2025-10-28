@@ -1,0 +1,7 @@
+{
+  "name": "TalkMaster – English Conversations Reimagined",
+  "description": "An interactive application for learning English through AI-powered voice conversations in real-life scenarios. Practice speaking, get feedback, and improve your fluency in a fun, gamified environment.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
